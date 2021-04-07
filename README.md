@@ -1,2 +1,2 @@
 # Address-Book
-Contact Desktop App
+Contacts # Desktop App
