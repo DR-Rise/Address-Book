@@ -1,0 +1,20 @@
+﻿  CourseProject-alpha.cpp
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(176,23): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(204,23): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(277,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(287,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(297,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(307,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(316,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(422,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(423,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(424,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(425,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(426,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(427,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(428,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(429,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(523,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(257): warning C4715: 'Shearch_Person': not all control paths return a value
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(536): warning C4715: 'DialogProcedure': not all control paths return a value
+  CourseProject-alpha.vcxproj -> C:\Users\alaou\source\repos\CourseProject-alpha\x64\Debug\CourseProject-alpha.exe

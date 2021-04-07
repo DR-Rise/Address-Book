@@ -1,0 +1,6 @@
+﻿  CourseProject-alpha.cpp
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(202,23): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(235,23): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(298): warning C4715: 'Shearch_Person': not all control paths return a value
+C:\Users\alaou\source\repos\CourseProject-alpha\CourseProject-alpha\CourseProject-alpha.cpp(604): warning C4715: 'DialogProcedure': not all control paths return a value
+  CourseProject-alpha.vcxproj -> C:\Users\alaou\source\repos\CourseProject-alpha\Debug\CourseProject-alpha.exe
